@@ -24,4 +24,4 @@ https://maa-hub.github.io/workScheduler/
 ## Contribution
 Made with ❤️ by Maame
 
-![alt text](./WorkSchedule)
+![alt text](./WorkSchedule.png)
