@@ -2,7 +2,6 @@
 var today = moment().format('dddd, MMM Do YYYY h:mm:ss a');
 $("#currentDay").text(today);
 
-
 $(document).ready(function () {
     $(".saveBtn").on("click", function () {
     
@@ -11,7 +10,6 @@ $(document).ready(function () {
 
         localStorage.setItem(time, task);
     })
-
 
 function currentTime() {
    var timeHour= moment().hour();
